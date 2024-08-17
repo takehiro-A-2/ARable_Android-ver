@@ -1,0 +1,161 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &3895336391050349182
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1786296893391318, guid: c17896e841b0ba14287dfacfd6be77b3, type: 3}
+      propertyPath: m_Name
+      value: Text (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 114524912880011608, guid: c17896e841b0ba14287dfacfd6be77b3,
+        type: 3}
+      propertyPath: m_FontData.m_FontSize
+      value: 170
+      objectReference: {fileID: 0}
+    - target: {fileID: 114524912880011608, guid: c17896e841b0ba14287dfacfd6be77b3,
+        type: 3}
+      propertyPath: m_FontData.m_MaxSize
+      value: 300
+      objectReference: {fileID: 0}
+    - target: {fileID: 114524912880011608, guid: c17896e841b0ba14287dfacfd6be77b3,
+        type: 3}
+      propertyPath: m_Text
+      value: "\u73FE\u5728\u306E\u5EA7\u6A19"
+      objectReference: {fileID: 0}
+    - target: {fileID: 114524912880011608, guid: c17896e841b0ba14287dfacfd6be77b3,
+        type: 3}
+      propertyPath: m_FontData.m_Font
+      value: 
+      objectReference: {fileID: 12800000, guid: 5ae9d1e8c4e217b45bcbeba8bb74b858,
+        type: 3}
+    - target: {fileID: 114524912880011608, guid: c17896e841b0ba14287dfacfd6be77b3,
+        type: 3}
+      propertyPath: m_FontData.m_FontStyle
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114524912880011608, guid: c17896e841b0ba14287dfacfd6be77b3,
+        type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114524912880011608, guid: c17896e841b0ba14287dfacfd6be77b3,
+        type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114524912880011608, guid: c17896e841b0ba14287dfacfd6be77b3,
+        type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 224466804172306350, guid: c17896e841b0ba14287dfacfd6be77b3,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224466804172306350, guid: c17896e841b0ba14287dfacfd6be77b3,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224466804172306350, guid: c17896e841b0ba14287dfacfd6be77b3,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224466804172306350, guid: c17896e841b0ba14287dfacfd6be77b3,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224466804172306350, guid: c17896e841b0ba14287dfacfd6be77b3,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224466804172306350, guid: c17896e841b0ba14287dfacfd6be77b3,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224466804172306350, guid: c17896e841b0ba14287dfacfd6be77b3,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 224466804172306350, guid: c17896e841b0ba14287dfacfd6be77b3,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224466804172306350, guid: c17896e841b0ba14287dfacfd6be77b3,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 939
+      objectReference: {fileID: 0}
+    - target: {fileID: 224466804172306350, guid: c17896e841b0ba14287dfacfd6be77b3,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 575
+      objectReference: {fileID: 0}
+    - target: {fileID: 224466804172306350, guid: c17896e841b0ba14287dfacfd6be77b3,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 1420
+      objectReference: {fileID: 0}
+    - target: {fileID: 224466804172306350, guid: c17896e841b0ba14287dfacfd6be77b3,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 250
+      objectReference: {fileID: 0}
+    - target: {fileID: 224466804172306350, guid: c17896e841b0ba14287dfacfd6be77b3,
+        type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 224466804172306350, guid: c17896e841b0ba14287dfacfd6be77b3,
+        type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 224466804172306350, guid: c17896e841b0ba14287dfacfd6be77b3,
+        type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 224466804172306350, guid: c17896e841b0ba14287dfacfd6be77b3,
+        type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 224466804172306350, guid: c17896e841b0ba14287dfacfd6be77b3,
+        type: 3}
+      propertyPath: m_Pivot.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 224466804172306350, guid: c17896e841b0ba14287dfacfd6be77b3,
+        type: 3}
+      propertyPath: m_Pivot.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 224466804172306350, guid: c17896e841b0ba14287dfacfd6be77b3,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 224466804172306350, guid: c17896e841b0ba14287dfacfd6be77b3,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 224466804172306350, guid: c17896e841b0ba14287dfacfd6be77b3,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.001
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: c17896e841b0ba14287dfacfd6be77b3, type: 3}
