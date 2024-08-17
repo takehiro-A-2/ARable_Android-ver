@@ -1,4 +1,4 @@
-# ARable_Andoroid-ver
+# ARable_Android-ver
  ARableのフロントエンド（Android版）になります。
 
 
